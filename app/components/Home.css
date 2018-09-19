@@ -3,6 +3,8 @@
   top: 30%;
   left: 10px;
   text-align: center;
+  display: flex;
+  flex-direction: column;
 }
 
 .container h2 {
