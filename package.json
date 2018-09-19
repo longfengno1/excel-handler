@@ -1,5 +1,5 @@
 {
-  "name": "electron-react-boilerplate",
+  "name": "excel-handler",
   "productName": "ElectronReact",
   "version": "0.14.0",
   "description": "Electron application boilerplate based on React, React Router, Webpack, React Hot Loader for rapid application development",
@@ -88,7 +88,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
+    "url": "git+https://github.com/chentsulin/excel-handler.git"
   },
   "author": {
     "name": "C. T. Lin",
@@ -97,7 +97,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+    "url": "https://github.com/chentsulin/excel-handler/issues"
   },
   "keywords": [
     "electron",
@@ -110,7 +110,7 @@
     "hot",
     "reload"
   ],
-  "homepage": "https://github.com/chentsulin/electron-react-boilerplate#readme",
+  "homepage": "https://github.com/chentsulin/excel-handler#readme",
   "jest": {
     "testURL": "http://localhost/",
     "moduleNameMapper": {
