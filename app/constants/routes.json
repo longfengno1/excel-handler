@@ -1,6 +1,6 @@
 {
   "HOME": "/",
   "COUNTER": "/counter",
-  "JOINT": "JOINT",
-  "MERGE": "MERGE"
+  "JOINT": "/joint",
+  "MERGE": "/merge"
 }

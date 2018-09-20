@@ -1,3 +1,7 @@
+.backButton {
+  position: absolute;
+}
+
 .container {
   display: flex;
   flex: 1;
